@@ -1,0 +1,11 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+uwsgi
+Numpy
+Pandas
+Matplotlib
+RegEx
+Sklearn
+Flask-Cors
+psycopg2
